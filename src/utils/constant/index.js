@@ -3,7 +3,7 @@ export const widthMobileUI = 414;
 
 export const API_TIMEOUT = 120000;
 export const API_RAJAONGKIR = 'https://api.rajaongkir.com/starter/';
-export const API_KEY = '5101db33cff6839062be3138c90e63d7';
+export const API_KEY = '[MASUKKAN DISINI]';
 export const API_HEADER_RAJAONGKIR = {
   key: API_KEY,
 };
@@ -18,7 +18,7 @@ export const ORIGIN_CITY = '349';
 export const HEADER_MIDTRANS = {
   Accept: 'application/json',
   'Content-Type': 'application/json',
-  Authorization: 'Basic U0ItTWlkLXNlcnZlci03OXQ3a3BCdVJuZ1pTalZGS0dMczNScXY=',
+  Authorization: 'Basic [ISI DENGAN API KEY ANDA]',
 };
 
 export const URL_MIDTRANS = 'https://app.sandbox.midtrans.com/snap/v1/';
